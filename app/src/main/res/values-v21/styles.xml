@@ -14,7 +14,7 @@
     <!-- Overrride buttonStyle from Android's theme and add own style: BeatBoxButton -->
 
     <style name="BeatBoxButton" parent="android:style/Widget.Material.Button">
-        <item name="android:background">@color/dark_blue</item>
+        <item name="android:background">@drawable/button_beat_box</item>
     </style>
 
 
